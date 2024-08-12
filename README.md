@@ -7,8 +7,6 @@ Data Analysis: Examining sales trends and customer segments
 Visualization: Presenting the data through graphs and charts
 This project was an important step in developing my skills in data analytics and visualization. You can access the project code and results through the link below.
 
-[Project Link]
-
 Technologies Used
 Python
 Pandas
